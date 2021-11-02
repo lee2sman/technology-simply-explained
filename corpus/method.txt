@@ -16,6 +16,10 @@ now make all lines end at period:
 
 :%s/\./.\r/g
 
+remove lines that do not start with letters:
+
+:g!/^[a-zA-Z]/d
+
 Use shuf to scramble:
 
 shuf input.txt > output.txt
