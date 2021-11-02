@@ -2,6 +2,9 @@
 
 An entry for [NaNoGenMo](https://nanogenmo.github.io/) 2021.
 
+Diagrams generated via Processing.
+
+Text source cleaned up via (neo)vim, regular expressions and shuffled via shuf. More detailed notes on the specific commands in the corpus folder.
 
 ### Sources
 
