@@ -1,0 +1,21 @@
+Method:
+
+left-align everything:
+:%left<CR>
+
+remove blank lines:
+:g/^$/d
+
+concat all lines
+
+1800J
+
+(i think that's how many lines of the file there were)
+
+now make all lines end at period:
+
+:%s/\./.\r/g
+
+Use shuf to scramble:
+
+shuf input.txt > output.txt
