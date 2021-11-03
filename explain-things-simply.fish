@@ -23,11 +23,16 @@ echo "My object in placing this handbook before the reader is to provide them wi
 echo ""
 # rest of the technologies described
 
-for i in (seq 1 85)
+for i in (seq 1 105)
     echo ""
     set TECH (shuf ./corpus/new-technologies.txt -n 1)
-    echo "## How a $TECH works"
+
+    if test (string match '*s' $TECH) #if ends in 's'
+      echo "## How $TECH work"
+    else
+      echo "## How $TECH works"
+    end
+
     echo ""
     create_section
-
 end
