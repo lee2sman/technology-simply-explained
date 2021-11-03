@@ -1,9 +1,7 @@
-My object in placing this handbook before the reader is to provide him with a simple and straightforward explanation of how and why a gas engine, or an oil engine, works.
 The main features and peculiarities in the construction of these engines are described, while the methods and precautions necessary to arrive at desirable results are detailed as fully as the limited space permits.
 I have aimed at supplying just that information which my experience shows is most needed by the user and by the amateur builder of small power engines.
 In place of giving a mere list of common engine troubles and their remedies, I have thought it better to endeavour to explain thoroughly the fundamental principles and essentials of good running, so that should any difficulty arise, the engine attendant will be able to reason out for himself the cause of the trouble, and will thus know the proper remedy to apply.
 This will give him a command over his engine which should render him equal to any emergency.
-INTRODUCTORY 
 The history of the gas engine goes back a long way, and the history of the internal combustion engine proper further still.
 It will be interesting to recount the main points in the history of the development of the class of engine we shall deal with in the following pages, in order to show what huge strides were made soon after the correct and most workable theory had been formulated.
 In 1678 Abbé Hautefeuille explained how a machine could be constructed to work with gunpowder as fuel.
@@ -56,14 +54,13 @@ His patent says there are four conditions for perfectly utilising the force of e
 These are the conditions and principles, briefly stated, that combine to form the now well-known cycle upon which most gas engines work at the present time.
 It was not until 1876, fifteen years after these principles had been enumerated, that Otto carried them into practical effect when he brought out a new type of engine, with compression before ignition, higher piston speed, more rapid expansion, and a general reduction of dimensions for a given power.
 Due to this achievement, the cycle above referred to has always been termed the "Otto" cycle.
-CHAPTER II THE COMPONENT PARTS OF AN ENGINE 
 Having recounted very briefly the chief points in the development of the gas engine from its beginning, we may proceed to deal with matters of perhaps more practical interest to those who we are assuming have had little or no actual experience in making or working internal combustion engines.
 The modern gas engine comprises comparatively few parts.
 Apart from the two main castings--the bed and cylinder--a small engine, generally speaking, consists of four fundamental members, viz.
 There are innumerable designs of each one of these parts, and no two makes are precisely alike in detail, as every maker employs his own method of achieving the same end, namely, the production of an engine which comprises maximum efficiency with a minimum of wear and tear and attention.
 Therefore, before dealing with each of these primary parts in an arbitrary manner, and with the cycle of operations in detail, we propose to make the reader familiar with the general arrangement and method of working which usually obtains in the smaller power engines.
 In the following illustrations these parts are shown.
-H and I (fig.
+H and I (fig.)
 The side or cam shaft N (sometimes called the 2 to 1 shaft), the cams which move the levers M, the latter in turn operating the valves, and causing them to open and close at the proper time, are shown in fig.
 A bracket bolted up to the side of cylinder forms a bearing for one end of the side shaft, and also carries a spindle at its lower end on which the levers oscillate, transmitting the motion imparted to them by the cams to the valves.
 The main cylinder casting and the bed need no description.
@@ -109,7 +106,6 @@ A flat is cut on one of the brasses, and a set screw is fitted, as shown, to pre
 A lock nut should be used in conjunction with this set screw.
 Another method, and one more generally used on larger engines, is shown in fig.
 In this case the brasses are larger than in the former, where they are virtually a split bush; here they have holes drilled in them to take the bolts, the latter usually and preferably being turned up to the shape shown in fig.
-CHAPTER III HOW A GAS ENGINE WORKS 
 The gas engine of the present day, although from a structural point of view is very different to the early engine, or even that of fifteen years ago, is, in respect to the principle upon which it works, very similar.
 The greater number of smaller power engines in use in this country work on what is known as the Otto or four-cycle principle; and it is with this class of engine we propose to deal.
 Reference to the various diagrams in the text will help considerably, and make it an easy matter for any reader hitherto totally unacquainted with such engines to see why and how they work.
@@ -121,10 +117,10 @@ We wish to emphasise this at the outset, because a consideration of these facts 
 But to revert to the explanation of the cycle of operations.
 The cycle is completed in four strokes of the piston, _i.
 e.
-At the commencement of the first out-stroke (the charging or suction stroke) gas and air are admitted to the cylinder through the respective valves (fig.
-The next stroke (fig.
+At the commencement of the first out-stroke (the charging or suction stroke) gas and air are admitted to the cylinder through the respective valves (fig.)
+The next stroke (fig.)
 All the valves are closed whilst the piston moves inwards, compressing the gases, until at the end of this stroke, and at the instant of maximum compression, the highly explosive charge is fired by means of the hot tube or an electric spark, as the case may be.
-The ensuing stroke--the second out-stroke of the cycle--is the result of the explosion, the expanding gases driving the piston rapidly before them; this, then, is the expansion, or working stroke (fig.
+The ensuing stroke--the second out-stroke of the cycle--is the result of the explosion, the expanding gases driving the piston rapidly before them; this, then, is the expansion, or working stroke (fig.)
 Gas and air valve about to open.
 This completes the cycle, and the piston, crank, and valves are in the same relative positions as formerly, and the same series of operations is repeated again and again.
 Of course, it is not always the case that both air _and_ gas valve are opened on the charging stroke; that depends upon the method employed to govern the speed of the engine.
@@ -140,7 +136,7 @@ The latter are seated direct on to the metal of the cylinder casting, the gun-me
 Further reference to A (the mixer), which serves a twofold purpose, will be made later on.
 The gas valve and cock are mounted in a separate casting, which is carried by a couple of studs, the joint between this and cylinder being made with a piece of rubber insertion.
 The gas enters at the gas-cock, passes through the valve and port G, and round the annular space in the bush or "mixer" A, previously mentioned, and thence through a number of small holes in same, immediately below the seat of the air valve F.
-At the same time, pure air is drawn in _via_ the air box (as explained hereafter), through port L (fig.
+At the same time, pure air is drawn in _via_ the air box (as explained hereafter), through port L (fig.)
 The two then thoroughly mix and enter the combustion chamber together as the air valve F is opened.
 This device produces a perfectly homogeneous mixture, which conduces in no small measure to perfect combustion when the explosion takes place, and upon which, to a very great extent, depends the efficiency of the engine.
 Besides possible loss in this direction, however, there is another source of waste which cannot be eliminated, and that is the heat taken away by the cooling water which surrounds the cylinder.
@@ -152,7 +148,7 @@ The object, then, is to do as little cooling as possible, and to apply the cooli
 On some of the engines of days gone by, the exhaust valve was carried in a large iron casting, this in turn being bolted to the cylinder casting and communicating with the combustion chamber by means of a port.
 Such an arrangement was found to be not only clumsy but inefficient; the water passages were small and difficult to get at; they readily furred up; and moreover, the joint between this casting and the cylinder was necessarily a water _and_ explosion joint, and the fewer we have of these the better.
 The method--if it may be called a method--of overcoming or preventing the exhaust valve becoming too hot is, in the case of figs.
-The cooling water enters by the inlet K (fig.
+The cooling water enters by the inlet K (fig.)
 On the other side of the exhaust valve we have the air valve and its passages, through which cool air is continually being drawn; this also helps to keep the exhaust valve cool.
 From this, then, we may conclude that overheating of the cylinder will not occur under normal conditions, given an engine of good design; but, if this trouble does arise, we may safely look first of all for some defect in the cooling water circulation.
 Some waters contain a greater amount of impurities than others, and consequently the water space may furr up more rapidly in one district than in another.
@@ -160,7 +156,6 @@ But this deposit, even under the worst conditions, accumulates very slowly, and 
 The exhaust valve, however, may become overheated if it is allowed to get into bad condition, _i.
 e.
 Its seat should be well looked after, or the hot gases will blow past when it is presumably shut; and if this defect, slight though it may be to begin with, is allowed to develop, both the seat, the valve head, and the spindle will become burnt away and pitted, perhaps badly, due to the excessive heat.
-CHAPTER IV IGNITION DEVICES 
 The ignition devices commonly employed may be divided into three main classes--the metal tube, the porcelain tube, and the electric ignition.
 These again may be subdivided: The first being either iron or nickel (hecknum as they are sometimes called); the second are of two kinds--single-ended and double-ended; and the third takes many forms which many of my readers are possibly well acquainted with, such as the magneto, the induction coil and trembler, and the high-tension magneto ignition, the latter device having been used successfully on various occasions, though not yet universally adopted.
 The first-named have one or two advantages over the nickel tube.
@@ -232,7 +227,7 @@ Figs.
 The device consists primarily of three parts--the body or chimney B, the cover C, and the tube itself T.
 The body is a light iron casting, carried by a couple of studs SS, which are either screwed into the firing block F, or direct into the metal of the cylinder casting if no firing-block is used; the latter may very well be dispensed with in the smaller-sized engines.
 The tube is made of thin porcelain, slightly bell-mouthed at its open end, and is mounted in a thick metal washer W, as shown in fig.
-The block F and the face of the body B (fig.
+The block F and the face of the body B (fig.)
 less than the thickness of the washer W; thus, when the tube is placed in position between the body B and the block F, and the former screwed up by means of the two nuts, as shown in the figure 16, the effect is to clamp the _washer_ which carries the tube, but _not the porcelain tube itself_.
 The action of this ignition device depends upon the tube heater H, which is merely a small bunsen burner, the flame of which impinges on the tube at one particular spot, raising it to a very high temperature--almost white heat.
 Most of my readers will know the formation of the bunsen flame.
@@ -254,7 +249,6 @@ In the first place, of course, the flame will be regulated by opening out or tap
 long when air aperture is full open; but once this is done, any future adjustment can be made by throttling the air-supply, or raising or lowering the burner bodily, the set screw keeping it in any desired position (see fig.
 From the foregoing remarks it will be seen that the most noteworthy features of this form of ignition are the ease and certainty with which the tube can be fixed in a few moments; that when the two nuts on the studs SS have been tightened up there is no likelihood of the joints being "blown," for, as we said before, only the metal washer is clamped up, the porcelain tube itself being as free to expand as it was before.
 It is also at once obvious when any adjustment of the flame is necessary; there need be no uncertainty as to whether the tube is hot enough or not.
-CHAPTER V MAGNETO IGNITION 
 The third form of ignition we have to deal with is the electric.
 There are a great number of different types made and used, but for gas-engine use perhaps that known as the magneto ignition is the most satisfactory.
 With this form, neither accumulators, dry batteries, or spark coils are required, and consequently a greater simplicity is arrived at than would otherwise be the case.
@@ -273,13 +267,11 @@ The latter is mounted on the end of the combustion chamber, and consists of two 
 D is therefore in direct metallic communication with the engine frame and earth.
 P is a fixed metal pin, carefully insulated from all contact with the engine frame and earth.
 To this pin one end of the armature winding is connected, whilst the other end is connected to the engine frame.
-Thus a closed circuit is formed, and when the current is generated it flows from one terminal of magneto through wire to pin P, on to D, through D to earth (_i.
-e.
+Thus a closed circuit is formed, and when the current is generated it flows from one terminal of magneto through wire to pin P, on to D, through D to earth (_i.)
 And as the circuit is broken between D and P, we obtain a spark, as previously explained, which may be timed to take place by adjusting the position of cam C on side shaft relatively to the position of piston.
 It may be said that the position of the magneto-igniter is immaterial; it will be fixed in different positions on different types of engines, and so long as the operating mechanism is simple and effective, _i.
 e.
 The timing of the spark will be dealt with in the chapter on Cams and Valve Settings.
-CHAPTER VI GOVERNING 
 The devices for governing the speed of the engine may be divided, broadly speaking, into two classes--the inertia or hit and miss governor, and the centrifugal.
 Of the latter type we will give an instance first.
 In figs.
@@ -321,7 +313,6 @@ This behaviour is very undesirable, as the small quantity of gas so admitted to 
 With the governing arrangement shown in fig.
 The cam is so designed that the first rise from X to A determines whether or not the valve is to be opened; the curve from A to Y is struck from the centre of the side shaft; thus, during that portion of the revolution the arm L is stationary, and the pecker at the same instant takes up a definite position either in the notch in B or on top of it, and is ready to open the valve if the speed of the engine is such as to require an explosion, or simply to slide over the top of B, allowing the valve to remain closed.
 It is most interesting to observe the action of this governor; when an engine fitted with one is running very slowly, the three distinct movements of the pecker P may be clearly discerned as the respective portions of the cam pass over the small roller R.
-CHAPTER VII CAMS AND VALVE SETTINGS 
 With the gas, as with any other kind of engine, the valve settings are of primary importance.
 On very small engines it is often the case that only the exhaust valve is operated mechanically.
 Again, there are several well-known makes which operate the gas and exhaust mechanically while the air valve is opened by suction alone.
@@ -332,16 +323,13 @@ The solid circle represents the first revolution of the crank shaft, starting fr
 As a clear conception of why certain things happen under certain conditions is most desirable, we will first describe the operation of marking off the cams which operate the respective valve levers, and then discuss the effect of various "settings" of the valves on the running of the engine.
 This 2 to 1 motion is obtained by means of toothed wheels, or a screw gear.
 In the former case, where plain or bevel cog-wheels are employed, the one fixed on the crank shaft must be exactly half the diameter of the one on the side shaft, _i.
-e.
 On the other hand, if a screw gear is used, the relative diameters of the two wheels may vary, but the pitch of the teeth on the one must be twice that of the other.
 These wheels sometimes have the teeth or thread formed in the casting, and sometimes they are cut after a plain casting has been made.
 The latter kind are, needless to say, better than the former, which often require filing up in order to make every tooth alike, and ensure sweet running.
 We know already in what positions our crank has to be at the opening and closing of the three valves, and with the aid of the diagram, fig.
 In fig.
-Fig.
 From this we see that the angle through which the crank travels during the time the air valve is open is equal to the obtuse angle ABC.
-Now, as the side shaft S revolves at half the speed of crank, it is obvious that the former will travel through only half that angle in the same space of time, _i.
-e.
+Now, as the side shaft S revolves at half the speed of crank, it is obvious that the former will travel through only half that angle in the same space of time.
 We can now transfer this angle on to S, fig.
 Consequently, as the side shaft rotates in the direction indicated, the lever L will _begin_ to open the valve V when the cam is in the position shown in fig.
 With a cam of this shape, however, a considerable portion of the stroke would have passed before the valve was raised any _appreciable_ distance off its seat; it would only be fully open for an instant, viz.
@@ -358,15 +346,12 @@ By comparing these two diagrams it will be seen that in both cases the valve wil
 In practice the corners are rounded off somewhat, in order to obtain a steady motion; and when the air cam is also the governing cam, it is advisable to round off the opening face, as indicated in fig.
 Upon the shape of this face both the sensitiveness and the life of the governor gear depends.
 If it is nicely rounded off, giving a gradual rise, very little tension (or compression, as the case may be) of the controlling spring will be necessary to give the required speed to engine; whereas, if the rise is sudden, the spring will have to be screwed up tighter, and, if uneven and lumpy (_i.
-e.
 A small stop interposed between the lever and some convenient part of the engine, such as the side-shaft bracket bearing, answers this purpose.
 A fair margin should be allowed for filing or machining these castings up; the shape and sizes arrived at by the above described method being finished measurements.
-Fig.
 Assuming that we have both cams finished to the proper shape and size, and the keyway cut in the side shaft, we can commence to mark off the position of keyway in the air cam.
 With the crank in the position shown in fig.
-The keyway being already cut in the side shaft, the position for that in the cam may be scribed off, as shown by dotted lines (fig.
+The keyway being already cut in the side shaft, the position for that in the cam may be scribed off, as shown by dotted lines (fig.)
 It is as well, however, to check this mark by turning the crank round to position shown in fig.
-e.
 The side shaft will also turn through exactly half this angle, so that when the cam is again slipped on the latter, the scriber marks and keyway in shaft should be exactly in line, as they were in fig.
 The slightest movement of the crank from this point in a forward direction should result in a little play being felt in the lever L, assuming that the cam is also moved just enough to keep the scriber marks in line with the existing keyway.
 Supposing it is too small, we will obtain two sets of marks indicating the position of keyway, as shown in fig.
@@ -374,7 +359,6 @@ The effect of this is to cause the valve to open earlier and close later than it
 A minimum amount of play must always be allowed, however.
 When two sets of marks are obtained, the mean must be taken and the keyway cut as shown by the thick lines in fig.
 The exhaust cam in larger engines is usually made with a swelling on the opening portion, as shown in fig.
-Fig.
 The small lump on the back of exhaust cam, fig.
 H.
 P.
@@ -384,11 +368,9 @@ Referring again to fig.
 An end view of the three cams keyed up on the side shaft is given in fig.
 In small engines it is convenient to have the air and exhaust cams made in one casting, when one key only will be required.
 On some engines, instead of employing a movable roller or valve lever, the exhaust cam is fitted on side shaft with a "feather"--_i.
-e.
 The effect of a wrong setting will then be strikingly apparent.
 On small engines a separate cam to operate the gas valve is not a necessity; and the practice of fitting the gas valve spindle (or the pecker, the effect would be the same) with a device for increasing or diminishing its length, is also unnecessary and unsound.
 The wear on a well-designed gas valve operating mechanism is practically nil; and even if there was wear, the effect would be to cause the valve to open a trifle later and close sooner than it would otherwise, _i.
-e.
 This in turn (other conditions remaining the same) would give us a weaker mixture; and although too weak a mixture is preferable to a too rich one, we should have to adopt some means of increasing the richness of the mixture; otherwise the maximum power of the engine would soon be seen to diminish.
 To get the mixture normal again we must either enlarge the gas inlet or cut down the air-supply somewhat, and so keep the proportions the same.
 That is to say, the quality of the mixture is dependent upon the relative dimension of the gas and air inlets.
@@ -404,7 +386,7 @@ Too early closing of the exhaust should be avoided almost as rigorously as too l
 The latter will affect the working in a similar way to the exhaust being lifted on the charging stroke by suction; on the other hand, if it closes too soon, the entire volume of burnt gases will not have been swept out of the cylinder, and the effect will again be to damp the following explosion.
 The gas valve opens just after the crank is above the back centre and closes just before the front centre is reached, that is, opening a little after the air valve and closing a shade before it, thus every particle of gas is used in the cylinder, due to a draught of air being drawn in after the gas valve has been closed.
 The settings of the valve being of primary importance, no matter what size engine we are dealing with, and being also the most confusing matter for anyone unacquainted with gas engines to grasp, it will not be out of place to suggest a simple method of checking these settings.
-Let us begin by pulling the fly-wheel round backwards until we feel the piston is on the compression stroke, then from this point--the crank being about 45° above the front centre--pull the wheel round until the crank is in the position for the exhaust opening (see fig.
+Let us begin by pulling the fly-wheel round backwards until we feel the piston is on the compression stroke, then from this point--the crank being about 45° above the front centre--pull the wheel round until the crank is in the position for the exhaust opening (see fig.)
 In this position there should be but the _slightest_ play in the exhaust lever, showing that the valve is _just_ on point of opening; and by keeping one's hand on the lever whilst the fly-wheel is pulled round _very slowly_ (it is a good plan to get some one else to do the pulling round), it is possible to ascertain the precise point at which the valve opens.
 Next pull round till the crank is in the position for the air valve opening, and observe that it is set correctly.
 Then go on to a trifle above the back centre, where the exhaust valve should close, and so on till the opening and closing of each valve has been checked.
@@ -440,7 +422,6 @@ P.
 may be written-- B.
 H.
 P.
-CHAPTER VIII OIL ENGINES 
 The small oil engine is practically the same as the gas engine, with the addition of a vaporiser for converting the oil into gas, or vapour, to be exploded in the cylinder; consequently the one may be converted into the other in many cases without much trouble.
 The difficulty of producing an efficient oil engine lies principally in devising a satisfactory and reliable vapouriser--one which will work equally well under all loads.
 The heat supplied to the chamber must be sufficient to vaporise the oil, but not great enough to decompose it.
@@ -477,4 +458,3 @@ A pressure gauge can also be fitted, although it is not in any way a necessity.
 The ratchet wheel and pawl shown in fig.
 The wheel drives a brass or gun-metal plug, producing an intermittent rotary motion.
 The plug has a small hole in its periphery, which becomes filled with oil when it is at the upper part of its travel, and empties the oil out into a discharge pipe T, when it is inverted, and is then led away and applied to the piston at the required spot.
-Fig.
