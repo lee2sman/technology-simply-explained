@@ -1,8 +1,21 @@
 #!/usr/bin/env fish
 
+set modifiers "Carefully" "Aggressively" "Gently" "Quickly" "Forcefully" "With attention" "Firstly" "Gingerly" "Attentively" "Tentatively" "Crudely" "Swiftly" "Slickly" "Easily" "Eagerly" "Ordinarily" "Tenderly" "Cautiously" "Callously" "Quietly" "Crazily" "Practically" "Clearly" "Militantly" "Slickly" "Suavely" "Slightly" "Fluidly" "Easily" "Eagerly" "Bravely" "Boldly" "Delicately" "Devotedly" "Flagrantly" "Justly" "Knowingly" "Markedly" "Nicely" "Pleasantly" "Plainly" "Rightly" "Rigidly" "Urgently" "Willingly"
+set actions "unseat" "depress" "extrude" "push" "extend" "remove" "lock" "twist" "unlock" "lower" "connect" "stretch" "unset" "hyper-extend" "pull" "place" "lift" "punch" "press" "turn" "force" "free" "fill" "empty" "shunt" "depress" "thrust" "thread" "heat" "pull down" "knock" "submerge" "strip"
+set subjects "bearings" "shaft" "cam" "bit" "head" "chuck" "bearing" "belt" "bucket" "camshaft" "carriage" "chamber" "claw" "clockwork" "cog" "collar" "combustion chamber" "component" "compression chamber" "connector" "controller" "crank" "cutout" "dial" "drum" "dynamo" "feed" "feeder" "flywheel" "gasket" "gear" "guard" "guts" "heat pump" "housing" "hydraulics" "inlet" "innards" "instrumentation" "intake" "jacket" "jaws" "linkup" "lock" "machinery" "mechanism" "module" "motor" "moving part" "part" "pedal" "photoelectric cell" "pinion" "piston" "plunger" "radiator" "ratchet" "regulator" "remote" "remote control" "reservoir" "roller" "seal" "shaft" "shovel" "skirt" "skirting" "sleeve" "spare" "spindle" "spare part" "sprocket" "stabilizer" "starter" "starter motor" "sump" "supercharger" "timer" "tooth" "treadle" "tripwire" "unit" "valve" "vane" "wheel" "workings"
+
 function create_section
+
+  set mod (random 1 (count $modifiers))
+  set act (random 1 (count $actions))
+  set sub (random 1 (count $subjects))
+
+  echo $modifiers[$mod] $actions[$act] $subjects[$sub].
+  echo ""
+
   set lines (shuf -i 7-30 -n1)
     for j in (seq 1 $lines)
+      
       shuf ./corpus/engines-simply-explained.txt -n 1
       echo ""
 
@@ -33,5 +46,6 @@ for i in (seq 1 105)
     end
 
     echo ""
+
     create_section
 end
