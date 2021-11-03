@@ -4,7 +4,21 @@ An entry for [NaNoGenMo](https://nanogenmo.github.io/) 2021.
 
 Diagrams generated via Processing.
 
-Text source cleaned up via (neo)vim, regular expressions and shuffled via shuf. More detailed notes on the specific commands in the corpus folder.
+Text cleaned via (neo)vim, regex and processed via shuf, glued with fish. More detailed notes on the specific commands in the corpus folder.
+
+#### Compile New Book
+
+Run, creating markdown document: 
+
+```
+fish ./explain-things-simply.fish > book.md
+```
+
+Compile to book with pandoc:
+
+```
+pandoc --self-contained -s book.md -c path/to/stylesheet.css --metadata title="Technology Simply Explained" -o book.html
+```
 
 ### Sources
 
