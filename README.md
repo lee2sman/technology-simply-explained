@@ -1,4 +1,4 @@
-# Things Explained Simply
+# Technology Simply Explained
 
 An entry for [NaNoGenMo](https://nanogenmo.github.io/) 2021.
 
