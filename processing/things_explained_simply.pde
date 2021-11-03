@@ -27,8 +27,11 @@ void draw(){
   addTitle();
   
   saveFrame("diagrams/diagram-###.png");
-  
 
+}
+
+void mousePressed(){
+  noLoop();
 }
 
 void drawDiag() {
@@ -72,4 +75,5 @@ void addTitle() {
   print(instruction.length());
   fill(20);
   text(instruction, tx, 50+10);
+  stroke(2);
 }
