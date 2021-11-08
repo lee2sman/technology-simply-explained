@@ -22,12 +22,16 @@ function create_section
       set hundred_sided_die (random 1 100)
       if test $hundred_sided_die -lt 8 # 8% of time, display a diagram
 	set DIAGRAM_NUM (shuf -i 100-999 -n 1) # pick rand num of diagram to display
-	echo "![figure $DIAGRAM_NUM](processing/diagrams/diagram-$DIAGRAM_NUM.png)  "
-	echo "*figure $DIAGRAM_NUM*"
+	echo "![figure $DIAGRAM_NUM](processing/draw-diagrams/diagrams/diagram-$DIAGRAM_NUM.png)  "
+	echo "*fig. $DIAGRAM_NUM*"
 	echo ""
-        end
+      else if test $hundred_sided_die -lt 17 # 9% of time, display an image
+	set IMG_NUM (shuf -i 0-100 -n 1) # pick rand num of image to display
+	echo "![image $IMG_NUM](processing/photo-generation/img/$IMG_NUM.png)  "
+	echo "*img. $IMG_NUM*"
+	echo ""
       end 
-
+   end
 end
 
 set TECH (shuf ./corpus/new-technologies.txt -n 1)
@@ -39,11 +43,13 @@ for i in (seq 1 105)
     echo ""
     set TECH (shuf ./corpus/new-technologies.txt -n 1)
 
-    if test (string match '*s' $TECH) #if ends in 's'
-      echo "## How $TECH work"
-    else
-      echo "## How $TECH works"
-    end
+    ##if test (string match '*s' $TECH) #if ends in 's'
+    ##  echo "## How $TECH work"
+    ##else
+    ##  echo "## How $TECH works"
+    ##end
+    
+    echo "## How to repair $TECH"
 
     echo ""
 
