@@ -16,7 +16,8 @@ function create_section
   set lines (shuf -i 7-30 -n1)
     for j in (seq 1 $lines)
       
-      shuf ./corpus/engines-simply-explained.txt -n 1
+      set lineout (shuf ./corpus/engines-simply-explained.txt -n 1)
+      string replace engine $TECH $lineout
       echo ""
 
       set hundred_sided_die (random 1 100)
