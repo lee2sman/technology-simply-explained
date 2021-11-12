@@ -2,25 +2,27 @@
 
 An entry for [NaNoGenMo](https://nanogenmo.github.io/) 2021.
 
-Diagrams generated via Processing.
-
 Text cleaned via (neo)vim, regex and processed via shuf, glued with fish shell. Photo "illustrations" and "diagrams" were generated via Processing. 
 
-More detailed notes on the specific text-cleanup commands in the corpus folder.
+More notes on the specific text-cleanup commands via neovim regexes in the corpus folder.
 
 #### Compile New Book
 
-Run, creating markdown document: 
+Assuming all dependencies, to create a new book.pdf, just run:
 
 ```
-fish ./explain-things-simply.fish > book.md
+fish ./build.fish
 ```
 
-Compile to HTML book with pandoc:
+The main script is ```explain-things-simply.fish```, which compiles the book.md file, and then pandoc converts to pdf via pdflatex using tufte.css.
 
-```
-pandoc --self-contained -s book.md -c path/to/stylesheet.css --metadata title="Technology Simply Explained" -o book.html
-```
+### Dependencies
+
+* [Processing](https://processing.org/) creative coding IDE, language, framework (if generating new diagrams, images)
+* [Fish shell](https://fishshell.com/) for running build scripts
+* [pandoc](https://pandoc.org/) universal document converter
+* [pdflatex](https://gist.github.com/rain1024/98dd5e2c6c8c28f9ea9d) for use with pandoc
+* [shuf](https://man7.org/linux/man-pages/man1/shuf.1.html) permutation program
 
 ### Roadmap
 
